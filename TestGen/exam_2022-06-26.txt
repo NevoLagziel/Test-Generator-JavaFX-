@@ -1,0 +1,21 @@
+1) what can you drink?
+
+2) how are you?
+
+3) whats my name?
+  1) sami
+  2) david
+  3) nevo
+  4) shlomo
+  5) there is more then one right answer
+  6) there is no right answers
+
+4) what can you drink
+  1) block
+  2) water
+  3) money
+  4) shirt
+  5) there is more then one right answer
+  6) there is no right answers
+
+

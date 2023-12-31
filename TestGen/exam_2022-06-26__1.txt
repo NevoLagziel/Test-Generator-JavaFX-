@@ -1,0 +1,13 @@
+1) what can you drink?
+
+2) how are you?
+
+3) what can you drink
+  1) there is more then one right answer
+  2) there is no right answers
+
+4) whats my name?
+  1) there is more then one right answer
+  2) there is no right answers
+
+
